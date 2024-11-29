@@ -1,4 +1,4 @@
-[![MasterHead](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)](https://rishavchanda.io)
+[![MasterHead](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)]()
 <h1 align="center">Hi 👋, I'm Shanmuka Sagar</h1>
 <h3 align="center">A passionate MERN Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
